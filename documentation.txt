@@ -1,0 +1,19 @@
+				DONKEY -KONG DOCUMENTATION
+				CONTROLS
+
+a - left 
+w - up
+d - right
+s-down
+space after a - left jump
+space after d - right jump
+space after w - straight jump
+q- quit
+level boards are randomised 
+there are 5 modules 
+donkkong - class of donkey
+board - screen class
+person - contains player and person class inheritence
+getchar - takes one key at a time
+fireball - fireball class
+donkeykong - contains main function
